@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Notebook
+.ipynb_checkpoints/
+
+# Dokumen kerja (lokal)
+docs/
+
+# Office/temp
+*.docx
+~$*.docx
+~$*.pptx
+~$*.xlsx
+*.tmp
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

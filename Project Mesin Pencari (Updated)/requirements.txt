@@ -1,0 +1,13 @@
+# Runtime pipeline
+pandas>=2.0
+numpy>=1.24
+Sastrawi>=1.0.1
+
+# Figur laporan (opsional)
+matplotlib>=3.7
+
+# Dokumen laporan (opsional)
+python-docx>=1.1
+
+# Verifikasi sumber (opsional, dipakai scripts/check_sources.py)
+requests>=2.31

@@ -1,0 +1,26 @@
+﻿query_id,query,topik,intent
+Q1,pencegahan penyakit demam berdarah,kesehatan,Mencari informasi tentang pencegahan penyakit demam berdarah.
+Q2,teknologi pertanian modern,pertanian,Mencari informasi tentang teknologi pertanian modern.
+Q3,gizi anak balita,kesehatan,Mencari informasi tentang gizi anak balita.
+Q4,mesin pencari dan indeks dokumen,teknologi informasi,Mencari informasi tentang mesin pencari dan indeks dokumen.
+Q5,pemasaran digital UMKM,ekonomi,Mencari informasi tentang pemasaran digital UMKM.
+Q6,keamanan data pribadi di internet,teknologi informasi,Mencari informasi tentang keamanan data pribadi di internet.
+Q7,harga hasil panen petani,pertanian,Mencari informasi tentang harga hasil panen petani.
+Q8,pembelajaran daring mahasiswa,pendidikan,Mencari informasi tentang pembelajaran daring mahasiswa.
+Q9,tablet tambah darah untuk remaja putri,kesehatan,Mencari informasi tentang pencegahan anemia pada remaja putri dengan tablet tambah darah.
+Q10,kesehatan mental remaja di sekolah,kesehatan,Mencari informasi tentang dukungan kesehatan mental siswa di lingkungan sekolah.
+Q11,vaksin demam berdarah untuk anak,kesehatan,Mencari informasi tentang vaksinasi dengue pada anak dan kaitannya dengan pencegahan DBD.
+Q12,irigasi tetes untuk menghemat air,pertanian,Mencari informasi tentang irigasi tetes dan penghematan air pada lahan pertanian.
+Q13,pertanian organik dan kesuburan tanah,pertanian,Mencari informasi tentang praktik pertanian organik untuk menjaga kesuburan tanah.
+Q14,drone dan teknologi pertanian presisi,pertanian,Mencari informasi tentang penggunaan drone dan teknologi presisi di pertanian.
+Q15,serangan ransomware dan keamanan data,teknologi informasi,Mencari informasi tentang serangan ransomware dan langkah mitigasi keamanan data.
+Q16,etika penggunaan kecerdasan buatan,teknologi informasi,Mencari informasi tentang prinsip etika dalam pengembangan dan penggunaan AI.
+Q17,jaringan 5G untuk transformasi digital,teknologi informasi,Mencari informasi tentang jaringan 5G dan perannya dalam transformasi digital.
+Q18,literasi keuangan masyarakat,ekonomi,Mencari informasi tentang literasi keuangan dan edukasi pengelolaan keuangan masyarakat.
+Q19,pemasaran online UMKM melalui e-commerce,ekonomi,Mencari informasi tentang pemanfaatan e-commerce untuk pemasaran produk UMKM.
+Q20,pajak ekonomi digital,ekonomi,Mencari informasi tentang pemungutan pajak pada sektor ekonomi digital.
+Q21,sertifikasi halal produk UMKM,ekonomi,Mencari informasi tentang sertifikasi halal dan manfaatnya bagi produk UMKM.
+Q22,program Merdeka Belajar Kampus Merdeka,pendidikan,Mencari informasi tentang kebijakan MBKM dan bentuk kegiatan pembelajaran di luar kampus.
+Q23,peran guru penggerak dalam pembelajaran,pendidikan,Mencari informasi tentang peran Guru Penggerak dalam meningkatkan kualitas pembelajaran.
+Q24,sistem zonasi penerimaan siswa baru,pendidikan,Mencari informasi tentang sistem zonasi dalam penerimaan peserta didik baru.
+Q25,pendidikan vokasi SMK dan industri,pendidikan,Mencari informasi tentang link and match pendidikan vokasi SMK dengan dunia industri.

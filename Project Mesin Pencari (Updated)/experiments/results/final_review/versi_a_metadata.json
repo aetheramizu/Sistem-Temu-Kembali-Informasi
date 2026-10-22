@@ -1,0 +1,41 @@
+{
+  "version": "A",
+  "label": "final_review",
+  "description": "BM25 + stopword removal + stemming (baseline)",
+  "config": {
+    "version": "A",
+    "description": "BM25 + stopword removal + stemming (baseline)",
+    "model": "bm25",
+    "k1": 1.5,
+    "b": 0.75,
+    "use_stopword": true,
+    "use_stemming": true,
+    "use_query_expansion": false,
+    "top_k": 10,
+    "metric_k": 5,
+    "expected_docs": 50,
+    "expected_queries": 25,
+    "docs_per_topic": 5,
+    "queries_per_topic": null,
+    "expected_topics": 10,
+    "corpus": "Data/korpus_final.csv",
+    "queries": "Data/queries_25.csv",
+    "qrels": "Data/qrels_final.csv"
+  },
+  "config_path": "experiments\\versi_a\\config.json",
+  "resolved_paths": {
+    "corpus": "D:\\Coolyeah\\Semester 5\\Sistem Temu Kembali Informasi\\Project Mesin Pencari (Updated)\\Data\\korpus_final.csv",
+    "queries": "D:\\Coolyeah\\Semester 5\\Sistem Temu Kembali Informasi\\Project Mesin Pencari (Updated)\\Data\\queries_25.csv",
+    "qrels": "D:\\Coolyeah\\Semester 5\\Sistem Temu Kembali Informasi\\Project Mesin Pencari (Updated)\\Data\\qrels_final.csv"
+  },
+  "checksums_sha256": {
+    "corpus": "92381511879e2b700625e2bafbbe7c50da1bd3dbf4be7542b78dd77bbb462460",
+    "queries": "7279da9d2a12bd94e4dc6be074101009b001f77adfee2bfb5f5c36666608ca25",
+    "qrels": "886f8e8dcff33066964d084af5dc58c8876d1b17e1b89bf72c345923b4f307dc"
+  },
+  "python": "3.12.5 (tags/v3.12.5:ff3bc82, Aug  6 2024, 20:45:27) [MSC v.1940 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.22631-SP0",
+  "timestamp_utc": "2026-10-20T17:51:57.722040+00:00",
+  "runtime_seconds": 17.4271,
+  "warnings": []
+}

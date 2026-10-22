@@ -1,0 +1,20 @@
+{
+  "version": "A",
+  "description": "BM25 + stopword removal + stemming (baseline)",
+  "model": "bm25",
+  "k1": 1.5,
+  "b": 0.75,
+  "use_stopword": true,
+  "use_stemming": true,
+  "use_query_expansion": false,
+  "top_k": 10,
+  "metric_k": 5,
+  "expected_docs": 50,
+  "expected_queries": 25,
+  "docs_per_topic": 5,
+  "queries_per_topic": null,
+  "expected_topics": 10,
+  "corpus": "Data/korpus_final.csv",
+  "queries": "Data/queries_25.csv",
+  "qrels": "Data/qrels_final.csv"
+}

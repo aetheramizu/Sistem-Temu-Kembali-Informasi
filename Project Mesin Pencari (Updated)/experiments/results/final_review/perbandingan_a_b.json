@@ -1,0 +1,70 @@
+{
+  "qrels": "D:\\Coolyeah\\Semester 5\\Sistem Temu Kembali Informasi\\Project Mesin Pencari (Updated)\\Data\\qrels_final.csv",
+  "metric_k": 5,
+  "summary": [
+    {
+      "metrik": "P@5",
+      "versi_a": 0.944,
+      "versi_b": 0.968,
+      "selisih_a_minus_b": -0.02400000000000002
+    },
+    {
+      "metrik": "R@5",
+      "versi_a": 0.71446,
+      "versi_b": 0.735794,
+      "selisih_a_minus_b": -0.021333999999999964
+    },
+    {
+      "metrik": "F1@5",
+      "versi_a": 0.804054,
+      "versi_b": 0.8266,
+      "selisih_a_minus_b": -0.022545999999999955
+    },
+    {
+      "metrik": "AP",
+      "versi_a": 0.910331,
+      "versi_b": 0.92951,
+      "selisih_a_minus_b": -0.019178999999999946
+    },
+    {
+      "metrik": "nDCG@5",
+      "versi_a": 0.937025,
+      "versi_b": 0.961335,
+      "selisih_a_minus_b": -0.024310000000000054
+    }
+  ],
+  "bootstrap": [
+    {
+      "metric": "AP",
+      "k": 5,
+      "n_queries": 25,
+      "mean_a": 0.9103308138070042,
+      "mean_b": 0.9295096119929452,
+      "mean_diff": -0.019178798185941055,
+      "ci95_low": -0.047260770975056696,
+      "ci95_high": -0.0007082766439909438,
+      "prob_a_better": 0.0175,
+      "n_a_better": 2,
+      "n_b_better": 5,
+      "n_tie": 18,
+      "n_bootstrap": 10000,
+      "seed": 42
+    },
+    {
+      "metric": "nDCG@5",
+      "k": 5,
+      "n_queries": 25,
+      "mean_a": 0.9370253938008289,
+      "mean_b": 0.9613351105902432,
+      "mean_diff": -0.024309716789414168,
+      "ci95_low": -0.04884357213651639,
+      "ci95_high": -0.006012058440061478,
+      "prob_a_better": 0.0002,
+      "n_a_better": 1,
+      "n_b_better": 7,
+      "n_tie": 17,
+      "n_bootstrap": 10000,
+      "seed": 42
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+﻿version,label,model,k1,b,use_stopword,use_stemming,use_query_expansion,expansion_weight,P@5,R@5,F1@5,MAP,nDCG@5,num_queries,num_docs,qrels
+A,final_review,bm25,1.5,0.75,True,True,False,,0.944,0.71446,0.804054,0.910331,0.937025,25,50,Data\qrels_final.csv

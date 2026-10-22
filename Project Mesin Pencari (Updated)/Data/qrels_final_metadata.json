@@ -1,0 +1,26 @@
+{
+  "file": "Data/qrels_final.csv",
+  "sha256": "886f8e8dcff33066964d084af5dc58c8876d1b17e1b89bf72c345923b4f307dc",
+  "rows": 173,
+  "queries": 25,
+  "documents": 50,
+  "labels": {
+    "1": 41,
+    "2": 69,
+    "3": 63
+  },
+  "agreement": {
+    "same": 143,
+    "total": 173,
+    "percent": 82.66,
+    "cohen_kappa": 0.737
+  },
+  "adjudicated": 30,
+  "provenance": "Dua lembar review independen + adjudikasi 30 perbedaan; qrels final.",
+  "source_review": {
+    "cocok": 9,
+    "cukup": 41,
+    "tidak_cocok": 0
+  },
+  "experiment_dir": "experiments/results/final_review"
+}
